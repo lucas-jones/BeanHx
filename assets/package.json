@@ -1,10 +1,10 @@
 {
-	"name": "hxeditor",
+	"name": "BeanHx",
 	"main": "index.html",
 	"window":
 	{
-		"title": "HxEditor",
-		"toolbar": true,
+		"title": "BeanHx - Starter Kit",
+		"toolbar": false,
 		"fullscreen": false,
 		"frame": true
 	}
