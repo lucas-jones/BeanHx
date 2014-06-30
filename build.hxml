@@ -1,0 +1,5 @@
+-main BeanHx
+-cp lib
+-cp src
+-lib nodehx
+-js bin/app.js
