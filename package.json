@@ -1,9 +1,9 @@
 {
-  "name": "HxEditor",
+  "name": "BeanHx",
   "version": "0.0.1",
-  "description": "Haxe Editor",
+  "description": "BeanHx Haxe & NodeWebKit Starter Kit",
   "main": "",
-  "author": "Lucas Jones",
+  "author": "Lucas A Jones",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-concurrent": "^0.5.0",
